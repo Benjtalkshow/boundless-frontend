@@ -93,7 +93,7 @@ flowchart TD
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-org/boundless.git
+   git clone https://github.com/boundlessfi/boundless-frontend.git
    cd boundless
    ```
 2. **Install dependencies:**
@@ -139,5 +139,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - Stellar Development Foundation
 - Soroban SDK
 - Next.js, Tailwind CSS, Zustand
-- Prisma, PostgreSQL
+- MongoDB
 - Docker, Vercel, GitHub Actions

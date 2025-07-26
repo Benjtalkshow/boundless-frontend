@@ -26,7 +26,7 @@ Thank you for your interest in contributing to Boundless! We welcome contributio
 
 ## Reporting Issues
 
-- Use [GitHub Issues](https://github.com/your-org/boundless/issues) to report bugs or request features.
+- Use [GitHub Issues](https://github.com/boundlessfi/boundless-frontend/issues) to report bugs or request features.
 - Provide as much detail as possible, including steps to reproduce, expected behavior, and screenshots if applicable.
 
 ## Community
