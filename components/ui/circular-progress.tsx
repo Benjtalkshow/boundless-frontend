@@ -27,10 +27,10 @@ interface CircularProgressProps {
 
 const CircularProgress: React.FC<CircularProgressProps> = ({
   value,
-  maxValue = 100,
-  size = 80,
+  maxValue = 14,
+  size = 32,
   strokeWidth = 6,
-  segments = 32,
+  segments = 14,
   className = "",
   showValue = true,
   valueClassName = "",
